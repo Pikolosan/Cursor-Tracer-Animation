@@ -17,7 +17,7 @@ Using HTML,CSS and JS.
    Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/cursor-tracer-animation.git
+   git clone https://github.com/your-username/Cursor-Tracer-Animation.git
    ```
 
 2. **Include the CSS and JS Files:**
