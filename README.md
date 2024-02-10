@@ -3,6 +3,9 @@
 Immerse your users in an innovative web experience with the Cursor Tracer Animation Effect, inspired by the groundbreaking design philosophy of Hyperflexed. Elevate your project's interactivity and aesthetics with this captivating animation that goes beyond the ordinary.
 Using HTML,CSS and JS.
 
+https://github.com/Pikolosan/Web-Dev-Proj---Cursor-Tracer-Animation/assets/122667309/daf1b2e0-e0db-4a0b-bff0-59b7df417010
+
+
 ## Key Features:
 
 1. **Mini Cursor Tracer:**
